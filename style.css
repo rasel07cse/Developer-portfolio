@@ -59,7 +59,19 @@ h1 {
     width: 40%;
     margin-left: 5%;
     margin-right: 5%;
-    padding-left: 2em;
-    border-radius: 1em;
+    padding-left: 1em;
+    border-radius: .5em;
     margin-bottom: 5em;
+}
+
+.bdr {
+    border-left: .6em solid tomato;
+}
+
+.bdr2 {
+    border-left: .6em solid blue;
+}
+
+footer {
+    text-align: center;
 }
